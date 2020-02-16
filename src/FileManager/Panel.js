@@ -13,16 +13,10 @@ const panels = {"Home":<Home/>};
 function Panel() {
     return (
       <>
-
         <div className="header">
           <h1>Alexander Waters</h1>
         </div>
-        
-        
         <PanelViewer panels={panels}/>
-        
-      
-      
       </>
     );
   }

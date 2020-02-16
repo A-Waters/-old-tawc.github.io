@@ -5,5 +5,3 @@ import Panel from './FileManager/Panel';
 
 
 ReactDOM.render(<Panel />, document.getElementById('root'));
-
-
